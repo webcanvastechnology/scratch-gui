@@ -384,6 +384,7 @@ const GUIComponent = (props) => {
                                         <Backpack host={backpackHost} />
                                     ) : null}
                                 </Box>
+
                                 <Box
                                     className={classNames(
                                         styles.stageAndTargetWrapper,
@@ -406,7 +407,13 @@ const GUIComponent = (props) => {
                                         />
                                     </Box>
                                 </Box>
-                                <Box className={styles.instructionWrapper}>
+                                <Box
+                                    style={{
+                                        width: "400px",
+                                        padding: "20px",
+                                        overflow: "scroll",
+                                    }}
+                                >
                                     <h4>Instructions</h4>
                                     <p>
                                         Lorem Ipsum is simply dummy text of the
