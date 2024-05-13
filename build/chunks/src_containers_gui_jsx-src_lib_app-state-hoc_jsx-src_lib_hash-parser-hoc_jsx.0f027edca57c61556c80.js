@@ -4594,7 +4594,7 @@ const GUIComponent = props => {
         padding: "20px",
         overflow: "scroll"
       }
-    }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_2__.createElement("h4", null, "Instructions"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_2__.createElement("p", null, "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.")))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_2__.createElement(_containers_drag_layer_jsx__WEBPACK_IMPORTED_MODULE_26__["default"], null));
+    }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_2__.createElement("h4", null, "tfgvftfghcyfgcgf")))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_2__.createElement(_containers_drag_layer_jsx__WEBPACK_IMPORTED_MODULE_26__["default"], null));
   });
 };
 GUIComponent.propTypes = {
@@ -42382,4 +42382,4 @@ module.exports = /*#__PURE__*/JSON.parse('[{"name":"Abby","tags":["people","pers
 /***/ })
 
 }]);
-//# sourceMappingURL=src_containers_gui_jsx-src_lib_app-state-hoc_jsx-src_lib_hash-parser-hoc_jsx.082bad9a58d3724b92b2.js.map
+//# sourceMappingURL=src_containers_gui_jsx-src_lib_app-state-hoc_jsx-src_lib_hash-parser-hoc_jsx.0f027edca57c61556c80.js.map
