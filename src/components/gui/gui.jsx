@@ -410,11 +410,11 @@ const GUIComponent = (props) => {
                                 <Box
                                     style={{
                                         width: "400px",
-                                        padding: "20px",
+                                        padding: "10px 20px",
                                         overflow: "scroll",
                                     }}
                                 >
-                                    <h4>tfgvftfghcyfgcgf</h4>
+                                    <h4>Instructions</h4>
                                 </Box>
                             </Box>
                         </Box>
